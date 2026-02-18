@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.Singleton"/>
+    <fullyQualifiedTypeName name="com.main.Student"/>
+    <fullyQualifiedTypeName name="java.applet.AppletContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
-    <fullyQualifiedTypeName name="com.main.Student"/>
+    <fullyQualifiedTypeName name="com.main.Employee"/>
+    <fullyQualifiedTypeName name="com.main.Address"/>
 </qualifiedTypeNameHistroy>

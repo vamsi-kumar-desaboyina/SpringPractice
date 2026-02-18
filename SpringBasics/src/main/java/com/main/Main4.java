@@ -1,0 +1,15 @@
+package com.main;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class Main4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ApplicationContext applicationContext=new ClassPathXmlApplicationContext("META-INF/beans4.xml");
+		Student studentBean = applicationContext.getBean("student",Student.class);
+		System.out.println(studentBean);
+	}
+
+}

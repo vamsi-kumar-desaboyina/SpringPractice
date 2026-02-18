@@ -1,0 +1,6 @@
+package com.main;
+
+public class Address {
+	private String street;
+	private int pincode;
+}
