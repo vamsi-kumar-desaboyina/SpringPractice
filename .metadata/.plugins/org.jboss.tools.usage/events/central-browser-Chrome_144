@@ -1,10 +1,10 @@
-#Wed Feb 18 23:27:30 IST 2026
+#Thu Feb 19 11:13:19 IST 2026
 a=browser
-c=3
+c=1
 cl=Chrome_144
 cmp=central
 ct=central
-d=1771437450474
+d=1771479799409
 l=Specifies which browser was used for JBoss Tools Central
 s=0
 v=2.3.200

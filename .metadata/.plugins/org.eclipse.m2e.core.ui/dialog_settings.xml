@@ -46,9 +46,11 @@
 			<item value="com"/>
 		</list>
 		<list key="name">
+			<item value="SpringBasicsNoXml"/>
 			<item value="SpringBasics"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringBasicsNoXml"/>
 			<item value="SpringBasics"/>
 		</list>
 		<list key="projectNameTemplate">
