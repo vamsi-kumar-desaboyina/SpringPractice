@@ -14,7 +14,7 @@ public class Student {
 	private Address address;
 	public Student()
 	{
-		System.out.println("Hello");
+		//System.out.println("Hello");
 	}
 	
 	public Student(int number, String name, Address address) {
